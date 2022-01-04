@@ -31,3 +31,40 @@ header h1{
     color: white;
     background-image: linear-gradient(tomato, orange);
 }
+
+.dream_big{
+    display: flex;
+    margin-top: 100px;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+h2{
+    font-size: 40px;
+}
+
+.experience_section{
+    display: flex;
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+}
+
+.full_stack{
+    width: 40%;
+    margin-left: 120px;
+    margin-right: 50px;
+    border-left: 5px solid red;
+    box-shadow: 10px 10px 40px gray;
+    padding: 25px;
+}
+
+.baby_web{
+    width: 40%;
+    margin-left: 50px;
+    margin-right: 120px;
+    box-shadow: 10px 10px 40px gray;
+    padding: 25px;
+    border-left: 5px solid yellow;
+}
+
